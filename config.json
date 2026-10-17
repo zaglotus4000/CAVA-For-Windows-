@@ -1,0 +1,21 @@
+{
+  "Bars": 48,
+  "Framerate": 60,
+  "Gravity": 1.0,
+  "Sensitivity": 1.0,
+  "Smoothing": 1.4,
+  "Peaks": true,
+  "Opacity": 0.9,
+  "Topmost": true,
+  "ClickThrough": false,
+  "Width": 560,
+  "Height": 240,
+  "Margin": 6,
+  "MinFreq": 50,
+  "MaxFreq": 10000,
+  "ColorFrom": "#2BFF9B",
+  "ColorTo": "#4D7CFF",
+  "Theme": "cappuccino",
+  "WindowLeft": -1,
+  "WindowTop": -1
+}

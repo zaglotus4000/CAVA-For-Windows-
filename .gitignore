@@ -1,0 +1,18 @@
+# Build artifacts
+bin/
+obj/
+publish/
+
+# Build/test logs
+deploy-result.txt
+test-result.txt
+
+# VS / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# OS junk
+Thumbs.db
+Desktop.ini
