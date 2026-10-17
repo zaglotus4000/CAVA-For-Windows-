@@ -8,6 +8,15 @@ loopback capture. No microphone, no "Stereo Mix", no fuss.
 ![styles](https://img.shields.io/badge/styles-bars%20%C2%B7%20monstercat%20%C2%B7%20mirror%20%C2%B7%20oscilloscope%20%C2%B7%20LED-blueviolet)
 ![dotnet](https://img.shields.io/badge/.NET-8%20WPF-5C2D91)
 ![platform](https://img.shields.io/badge/platform-Windows%2010%2F11-0078D6)
+[![download](https://img.shields.io/badge/download-v1.0.0%20zip-2ea44f)](https://github.com/zaglotus4000/CAVA-For-Windows-/releases/download/v1.0.0/CavaWin-v1.0.0-win-x64.zip)
+
+## Download
+
+Grab the ready-to-run build from [Releases](https://github.com/zaglotus4000/CAVA-For-Windows-/releases/latest):
+download `CavaWin-v1.0.0-win-x64.zip`, unzip it and run `cava.exe` — it is
+**self-contained**, so no .NET runtime installation is needed. If SmartScreen
+shows a warning, click *"More info" → "Run anyway"* (the app is open-source and
+not code-signed).
 
 ## Highlights
 
